@@ -84,3 +84,16 @@ AI_Hand_Gesture_Recognition/
 ## Notes
 
 Gesture recognition is based on landmark positions and simple geometric rules. Performance depends on lighting, camera quality, hand orientation and the installed MediaPipe/OpenCV versions.
+---
+
+## 📸 Project Screenshots
+
+![Open Hand](screenshots/open-hand.png)
+
+![Fist](screenshots/fist.png)
+
+![Thumbs Up](screenshots/thumbs-up.png)
+
+![Victory](screenshots/victory.png)
+
+![Two Hands](screenshots/two-hands.png)
